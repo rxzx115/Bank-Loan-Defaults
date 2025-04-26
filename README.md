@@ -21,11 +21,11 @@ To retrieve data from Kaggle
 - Exploratory data analysis was performed in SQL to answer the guiding questions
 - Refer to the separate .sql file for further details
 
-Data Visualization
+## Data Visualization
 - Data visualization was performed in Tableau
 - Refer to the separate Tableau data visualization on Tableau Public for further details
 
-Insights and Recommendations: 
+## Insights and Recommendations: 
 1. Elevated default rate with higher interest rates.
     - Implement a risk-based pricing model that adjusts interest rates based on borrower risk profiles, including credit score, credit history, loan to value ratio, debt to income ratio, etc. 
 2. Higher default rate with higher loan amounts. 
